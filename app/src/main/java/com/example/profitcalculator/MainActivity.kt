@@ -28,8 +28,8 @@ class MainActivity : AppCompatActivity() {
                 val before_Sigma = 1.0
 
                 //частка енергії, що генерується без небалансів
-                val before_Del = Delta(Pc, before_Sigma) //0.2
-                val after_Del = Delta(Pc, after_Sigma)   //0.68
+                val before_Del = Delta(Pc, before_Sigma) //~0.2
+                val after_Del = Delta(Pc, after_Sigma)   //~0.68
 
                 val profit_before = calcProfit(Pc, before_Del, B)
                 val profit_after = calcProfit(Pc, after_Del, B)
