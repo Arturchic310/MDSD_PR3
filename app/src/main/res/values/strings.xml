@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profit calculator</string>
+    <string name="calc_name">Калькулятор покращення прибутку</string>
+    <string name="Pc">Середньодобова потужність (МВт)</string>
+    <string name="sigma">σ після вдосконалення (МВт)</string>
+    <string name="B">Вартість електроенергії (грн/(кВт*год))</string>
+    <string name="button">Розрахувати</string>
+</resources>
